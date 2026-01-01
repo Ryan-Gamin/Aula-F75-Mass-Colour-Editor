@@ -22,7 +22,7 @@ You design your lighting theme in the web interface. When you click APPLY, the P
 
 <details>
 <summary><h2>Screenshots!</h2></summary>
-![image alt](https://github.com/Ryan-Gamin/Aula-F75-Mass-Colour-Editor/blob/bbb833582af0ab19498a77db25c0cacac6601c06/previews/plasma-cloud-1.png)
+<img width="1145" height="683" alt="Image" src="https://github.com/user-attachments/assets/7d02d2ee-8668-4d9b-b957-179c2734e14c" />
 </details>
 <summary><h2>🎛️ Usage (pre-install)!</h2></summary>
 
