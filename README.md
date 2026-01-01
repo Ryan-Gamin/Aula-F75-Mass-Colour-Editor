@@ -148,8 +148,5 @@ This project is a proud part of Source Unlatched.
 
 Source Unlatched is a collection of FOSS (Free and Open Source Software) applications designed to unlock the potential of your hardware and better your digital life without paywalls or bloatware.
 
-Visit Source Unlatched
-
-(Link currently directs to FOSS definition - Official site coming soon)
 
 </details>
