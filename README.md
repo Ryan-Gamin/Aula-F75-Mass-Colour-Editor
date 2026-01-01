@@ -154,7 +154,7 @@ Source Unlatched is a collection of FOSS (Free and Open Source Software) applica
 </details>
 <details>
 <summary><h1>🚨 Emergency</h1></summary>
-Hands Off: Move your mouse away. Do not touch the mouse or keyboard while the script is working.
+<h4>Hands Off: Move your mouse away. Do not touch the mouse or keyboard while the script is working. </h4>
 <h3>If you forget to do something, such as clearing Aula Software, you can press ESC (escape) to cancel the process during the countdown.</h3>
 <h2>Emergency Stop: If the script starts clicking the wrong things, or you forget something after the countdown, press F7 immediately to kill the process.</h2>
 </details>
