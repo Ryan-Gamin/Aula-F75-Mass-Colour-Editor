@@ -21,7 +21,9 @@ You design your lighting theme in the web interface. When you click APPLY, the P
 </details>
 
 <details>
-
+<summary><h2>Screenshots!</h2></summary>
+daw
+</details>
 <summary><h2>🎛️ Usage (pre-install)!</h2></summary>
 
 The web interface is your command center. Here is what every knob, dial, and button does:
