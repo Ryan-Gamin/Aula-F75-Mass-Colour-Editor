@@ -190,6 +190,6 @@ Source Unlatched is a collection of FOSS (Free and Open Source Software) applica
 <h2>Emergency Stop: If the script starts clicking the wrong things, or you forget something after the countdown, press F7 immediately to kill the process.</h2>
 </details>
 <details>
-<summary><h1>Security</h1></summary>
+<summary><h2>Security</h2></summary>
 <h4>Due to the way github limits file sizes to 25mb, the installation files zip installed with the autoinstaller (install_and_run.bat) are hosted on [google drive](https://drive.google.com/file/d/19G-wgcdYitwyy_NXgVzw5_2920_Zvg2U/view?usp=sharing).</h4>
 </details>
