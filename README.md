@@ -191,5 +191,5 @@ Source Unlatched is a collection of FOSS (Free and Open Source Software) applica
 </details>
 <details>
 <summary><h1>Security</h1></summary>
-<h4>Due to the way github limits file sizes to 25mb, the installation files zip installed with the autoinstaller (install_and_run.bat) are hosted on (google drive)[https://drive.google.com/file/d/19G-wgcdYitwyy_NXgVzw5_2920_Zvg2U/view?usp=sharing].</h4>
+<h4>Due to the way github limits file sizes to 25mb, the installation files zip installed with the autoinstaller (install_and_run.bat) are hosted on [google drive](https://drive.google.com/file/d/19G-wgcdYitwyy_NXgVzw5_2920_Zvg2U/view?usp=sharing).</h4>
 </details>
