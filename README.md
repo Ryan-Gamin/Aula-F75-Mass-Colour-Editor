@@ -1,7 +1,38 @@
-<h1>⌨️ AULA F75 Editor Ultimate</h1>
+<h1>⌨️ AULA LED Editor Ultimate</h1>
 
 <h3>The definitive, feature-rich controller for the AULA F75 mechanical keyboard RGB lighting.</h3>
+<details>
+<summary><h2>✅ Compatability</h2></summary>
+  Currently, the Aula F75 is the main supported keyboard. However, any keyboard in the Aula Suite can have a custom mapping assigned. 
 
+  | Model Name | Compatibility |
+| :--- | :---: |
+| **F65** | ❌ |
+| **F75** | ✅ |
+| **F81** | ❌ |
+| **F87** | ❌ |
+| **F98** | ❌ |
+| **F99** | ❌ |
+| **F106Pro** | ❌ |
+| **F108** | ❌ |
+| **F815** | ❌ |
+| **F2023** | ❌ |
+| **F2068** | ❌ |
+| **F2088** | ❌ |
+| **F-NB98** | ❌ |
+| **AMG65** | ❌ |
+| **AU75** | ❌ |
+| **EA75MAX** | ❌ |
+| **H108** | ❌ |
+| **L87** | ❌ |
+| **L99** | ❌ |
+| **M75** | ❌ |
+| **NOVA75** | ❌ |
+| **S75** | ❌ |
+| **S98** | ❌ |
+| **S100** | ❌ |
+| **T102** | ❌ |
+</details>
 <details>
 
 <summary><h2>❓ What?</h2></summary>
